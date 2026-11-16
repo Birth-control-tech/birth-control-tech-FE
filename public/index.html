@@ -61,9 +61,9 @@
 			async function showNotification() {
 				const result = await Notification.requestPermission();
 				if (result === 'granted') {
-					if (new Date().getHours() === 9) {
+					if (new Date().getHours() === 19) {
 						const noti = new Notification('Alert', {
-							body: 'Don\'t forget to take your temperature first thing this morning!',
+							body: 'Don\'t forget to take your temperature this morning!',
 							icon: 'lono_f.png'
 						});
 
