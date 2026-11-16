@@ -35,15 +35,14 @@ $ npm install
 $ npm start
 ```
 ## In Action
-#### [Demo video](https://www.youtube.com/watch?v=UPBCkB9-NHg&feature=youtu.be&ab_channel=BJoy)
-![login](https://user-images.githubusercontent.com/59381432/93413668-03f11680-f85d-11ea-924f-33d5295ce8c5.png)
-![home1](https://user-images.githubusercontent.com/59381432/93413561-c42a2f00-f85c-11ea-8019-af180539dc52.png)
-![profile1](https://user-images.githubusercontent.com/59381432/93413577-c8eee300-f85c-11ea-85e4-96dc16e5e6fc.png)
-![profile2](https://user-images.githubusercontent.com/59381432/93413580-cb513d00-f85c-11ea-8a12-e807d2602264.png)
-![form](https://user-images.githubusercontent.com/59381432/93413601-d5733b80-f85c-11ea-9f3e-b955263dc6c0.png)
-![home2](https://user-images.githubusercontent.com/59381432/93413602-d6a46880-f85c-11ea-9219-0f608dcb1d34.png)
-<img width="379" height="817" alt="calendar" src="https://user-images.githubusercontent.com/59381432/93415523-efaf1880-f860-11ea-86ed-b9db982a3e8f.png">
-![chart](https://user-images.githubusercontent.com/59381432/93413607-d86e2c00-f85c-11ea-92bc-ddf636fa688b.png)
+<img width="405" height="803" alt="l1" src="https://github.com/user-attachments/assets/d02b82a3-329b-4c99-a818-884f12f9ff51" />
+<img width="401" height="806" alt="l2" src="https://github.com/user-attachments/assets/79840bad-1cd2-4d98-aa54-e3371846a220" />
+<img width="403" height="804" alt="l3" src="https://github.com/user-attachments/assets/f3dcef75-f866-4f47-a610-09afec8b9202" />
+<img width="398" height="813" alt="l4" src="https://github.com/user-attachments/assets/055bb89d-3e31-4674-91fa-767e3cbda481" />
+<img width="409" height="805" alt="l5" src="https://github.com/user-attachments/assets/81c289f6-7f69-4956-8c9e-ac875c8be6f9" />
+<img width="401" height="806" alt="l6" src="https://github.com/user-attachments/assets/db857cf9-ad01-48a3-a955-7ed0836627e0" />
+<img width="408" height="808" alt="l7" src="https://github.com/user-attachments/assets/1a32341e-ee55-40a0-84d2-9e998d82c3af" />
+
 
 ## Wins
 - Connecting a hardware bluetooth piece to our application programmatically
